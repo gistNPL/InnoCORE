@@ -87,8 +87,8 @@ body.home {
   grid-template-columns: 1.25fr 1fr;
   gap: 8px;
   height: 70vh;
-  min-height: 420px;
-  max-height: 620px;
+  min-height: 320px;
+  max-height: 450px;
 }
 
 .hero-item {
